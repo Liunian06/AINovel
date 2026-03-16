@@ -16,3 +16,4 @@ echo 前后端已在新窗口中启动
 echo 后端: http://localhost:8000
 echo 前端: http://localhost:3000
 echo.
+pause
